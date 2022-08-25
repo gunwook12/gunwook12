@@ -1,4 +1,4 @@
-- Hi, I’m gunwook
+- Hi, I’m Gunwook Nam. Glad to meet you!😀
 - I’m currently learning Computational Chemistry @ KAIST CBE
 
 <!---
